@@ -1,7 +1,7 @@
 # Annotation-software-of-Human-Grasping-Database
-========================================================================================================================================
+_______________________________________________________________________________________________________________________________________
 	DESCRIPTION:
-========================================================================================================================================
+
 	Annotation software is designed to annotate NU Human Grasping-Database. 
 	It consists mainly of three windows:
 		
@@ -65,10 +65,9 @@
 	Contains large radio button group that has 35 options (33 from GRASP comprehensive taxonomy + 2 non-prehensile grasps).
 	
 		- "Finish" button to pass the selected grasp choice to parent window ("SaveAnnotation.m") and closes itself;
-
-========================================================================================================================================
+_______________________________________________________________________________________________________________________________________
 	HOW TO USE:
-========================================================================================================================================
+
 	
 	1. RUN annotate.m file (or relevand guide file "annotate.fig" )
 	2. Select video file that you want to annotate.
@@ -95,9 +94,8 @@
 	"Close Seq" button that resets sequence parameters.
 	17. If detected grasp is performed without releasing an object then you should add new grasp by calling "add grasp" button
 	that will follow with the same procedure 9-14.
-========================================================================================================================================
-END
-========================================================================================================================================
+_______________________________________________________________________________________________________________________________________
+
 (c) Zhanibek Rysbek
     PhD Student
     Department of Electrical and Computer Engineering 
