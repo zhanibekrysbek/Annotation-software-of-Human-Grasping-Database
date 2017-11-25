@@ -1,6 +1,7 @@
 # Annotation-software-of-Human-Grasping-Database
-
-DESCRIPTION:
+========================================================================================================================================
+	DESCRIPTION:
+========================================================================================================================================
 	Annotation software is designed to annotate NU Human Grasping-Database. 
 	It consists mainly of three windows:
 		
@@ -65,9 +66,9 @@ DESCRIPTION:
 	
 		- "Finish" button to pass the selected grasp choice to parent window ("SaveAnnotation.m") and closes itself;
 
-_______________________________________________________________________________________________________
-
-HOW TO USE:
+========================================================================================================================================
+	HOW TO USE:
+========================================================================================================================================
 	
 	1. RUN annotate.m file (or relevand guide file "annotate.fig" )
 	2. Select video file that you want to annotate.
@@ -94,11 +95,13 @@ HOW TO USE:
 	"Close Seq" button that resets sequence parameters.
 	17. If detected grasp is performed without releasing an object then you should add new grasp by calling "add grasp" button
 	that will follow with the same procedure 9-14.
-_______________________________________________________________________________________________________
-
-(c) Zhanibek Rysbek, 
-	PhD Student
-	Department of Electrical and Computer Engineering
-	University of Illinois at Chicago
-  
-For more questions please feel free to contact at "zrysbe2@uic.edu".
+========================================================================================================================================
+END
+========================================================================================================================================
+(c) Zhanibek Rysbek
+    PhD Student
+    Department of Electrical and Computer Engineering 
+    University of Illinois at Chicago
+    email: zrysbe2@uic.edu
+    
+For more questions please feel free to contact.
